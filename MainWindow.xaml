@@ -1,0 +1,25 @@
+﻿<Window x:Class="TICTOENOLIK.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TICTOENOLIK"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="button1" HorizontalAlignment="Left" Margin="81,61,0,0" VerticalAlignment="Top" FontSize="24" Height="84" Width="82" Click="Button1_Click" Content="" AutomationProperties.Name="button1"/>
+        <Button x:Name="button2" Content="" HorizontalAlignment="Left" Margin="169,61,0,0" VerticalAlignment="Top" FontSize="24" Height="84" Width="82" Click="Button1_Click"/>
+        <Button x:Name="button3" Content="" HorizontalAlignment="Left" Margin="256,61,0,0" VerticalAlignment="Top" FontSize="24" Height="84" Width="82" Click="Button1_Click"/>
+        <Button x:Name="button4" Content="" HorizontalAlignment="Left" Margin="81,150,0,0" VerticalAlignment="Top" FontSize="24" Height="84" Width="82" Click="Button1_Click"/>
+        <Button x:Name="button5" Content="" HorizontalAlignment="Left" Margin="169,150,0,0" VerticalAlignment="Top" FontSize="24" Height="84" Width="82" Click="Button1_Click"/>
+        <Button x:Name="button6" Content="" HorizontalAlignment="Left" Margin="256,150,0,0" VerticalAlignment="Top" FontSize="24" Height="84" Width="82" Click="Button1_Click"/>
+        <Button x:Name="button7" Content="" HorizontalAlignment="Left" Margin="82,239,0,0" VerticalAlignment="Top" FontSize="24" Height="84" Width="82" Click="Button1_Click"/>
+        <Button x:Name="button8" Content="" HorizontalAlignment="Left" Margin="169,239,0,0" VerticalAlignment="Top" FontSize="24" Height="84" Width="82" Click="Button1_Click"/>
+        <Button x:Name="button9" Content="" HorizontalAlignment="Left" Margin="256,239,0,0" VerticalAlignment="Top" FontSize="24" Height="84" Width="82" Click="Button1_Click"/>
+        <Label x:Name="label1" Content="Lable" HorizontalAlignment="Left" Margin="360,61,0,0" VerticalAlignment="Top" Height="49" Width="177" FontSize="20"/>
+        <Button x:Name="button10" Content="Начать заново" HorizontalAlignment="Left" Margin="400,144,0,0" VerticalAlignment="Top" Height="41" Width="97" Click="button10_Click"/>
+            
+    </Grid>
+</Window>
+
+    

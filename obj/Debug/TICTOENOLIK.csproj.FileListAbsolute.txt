@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\bin\Debug\TICTOENOLIK.exe.config
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\bin\Debug\TICTOENOLIK.exe
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\bin\Debug\TICTOENOLIK.pdb
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\obj\Debug\TICTOENOLIK.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\obj\Debug\App.g.cs
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\obj\Debug\TICTOENOLIK_MarkupCompile.cache
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\obj\Debug\TICTOENOLIK_MarkupCompile.lref
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\obj\Debug\TICTOENOLIK.g.resources
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\obj\Debug\TICTOENOLIK.Properties.Resources.resources
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\obj\Debug\TICTOENOLIK.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\obj\Debug\TICTOENOLIK.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\obj\Debug\TICTOENOLIK.exe
+C:\Users\User\source\repos\TICTOENOLIK\TICTOENOLIK\obj\Debug\TICTOENOLIK.pdb
